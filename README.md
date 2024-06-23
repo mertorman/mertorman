@@ -3,7 +3,7 @@
 Welcome to my GitHub Page
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&center=true&width=440&lines=Flutter%2FMobile+Developer;Software+Engineering+Student">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&center=true&width=440&lines=Software+Engineer;Mobile+Application+Developer">
   <p align="center">  
 
 
